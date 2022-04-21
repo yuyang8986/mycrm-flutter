@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../angelspace/android/app/android-app.iml" filepath="$PROJECT_DIR$/../../angelspace/android/app/android-app.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.0+10/android/android-package_info.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.0+10/android/android-package_info.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.5.1/android/android-path_provider.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.5.1/android/android-path_provider.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.3/android/android-shared_preferences.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.3/android/android-shared_preferences.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/speech_recognition-0.3.0/android/android-speech_recognition.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/speech_recognition-0.3.0/android/android-speech_recognition.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.2.5/android/android-url_launcher.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.2.5/android/android-url_launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../angelspace/android/angelspace-android.iml" filepath="$PROJECT_DIR$/../../angelspace/android/angelspace-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/contacts_service-0.3.5/android/contacts_service.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/contacts_service-0.3.5/android/contacts_service.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/downloads_path_provider-0.1.0/android/downloads_path_provider.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/downloads_path_provider-0.1.0/android/downloads_path_provider.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-1.4.2/android/file_picker.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-1.4.2/android/file_picker.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_ml_vision-0.9.2+2/android/firebase_ml_vision.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_ml_vision-0.9.2+2/android/firebase_ml_vision.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_email_sender-2.1.0/android/flutter_email_sender.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_email_sender-2.1.0/android/flutter_email_sender.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_image_compress-0.6.3/android/flutter_image_compress.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_image_compress-0.6.3/android/flutter_image_compress.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-0.8.4/android/flutter_local_notifications.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-0.8.4/android/flutter_local_notifications.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_money_formatter-0.8.3/android/flutter_money_formatter.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_money_formatter-0.8.3/android/flutter_money_formatter.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/flutter_share_file.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/flutter_share_file.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sms-1.1.0/android/flutter_sms.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sms-1.1.0/android/flutter_sms.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-3.1.3/android/fluttertoast.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-3.1.3/android/fluttertoast.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/geocoder-0.2.1/android/geocoder.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/geocoder-0.2.1/android/geocoder.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.1.5/android/geolocator.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.1.5/android/geolocator.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.1/android/google_api_availability.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.1/android/google_api_availability.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.21/android/google_maps_flutter.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.21/android/google_maps_flutter.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/image_editor-0.1.4/android/image_editor.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/image_editor-0.1.4/android/image_editor.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/image_gallery_saver-1.2.2/android/image_gallery_saver.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/image_gallery_saver-1.2.2/android/image_gallery_saver.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.1+8/android/image_picker.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.1+8/android/image_picker.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth-0.4.0+1/android/local_auth.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth-0.4.0+1/android/local_auth.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.3/android/location_permissions.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.3/android/location_permissions.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/open_file-2.1.1/android/open_file.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/open_file-2.1.1/android/open_file.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/orientation-1.1.0/android/orientation.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/orientation-1.1.0/android/orientation.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.4.0/android/path_provider.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.4.0/android/path_provider.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/permission_handler.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/permission_handler.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/screen-0.0.5/android/screen.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/screen-0.0.5/android/screen.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/share-0.6.3+1/android/share.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/share-0.6.3+1/android/share.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.1.6+3/android/sqflite.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.1.6+3/android/sqflite.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/stripe_payment-1.0.5/android/stripe_payment.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/stripe_payment-1.0.5/android/stripe_payment.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-0.10.1/android/video_player.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-0.10.1/android/video_player.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-0.3.15+1/android/webview_flutter.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-0.3.15+1/android/webview_flutter.iml" />
+    </modules>
+  </component>
+</project>

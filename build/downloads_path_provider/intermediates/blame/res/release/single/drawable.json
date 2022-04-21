@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\larry\\source\\repos\\MyCRM\\build\\downloads_path_provider\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\larry\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\4efb5bebb4a3c0ac89d3a47d6361ad4b\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\larry\\source\\repos\\MyCRM\\build\\downloads_path_provider\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\larry\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\4efb5bebb4a3c0ac89d3a47d6361ad4b\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\larry\\source\\repos\\MyCRM\\build\\downloads_path_provider\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\larry\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\4efb5bebb4a3c0ac89d3a47d6361ad4b\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\larry\\source\\repos\\MyCRM\\build\\downloads_path_provider\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\larry\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\4efb5bebb4a3c0ac89d3a47d6361ad4b\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

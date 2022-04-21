@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\larry\\source\\repos\\MyCRM\\build\\firebase_ml_vision\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\larry\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\4efb5bebb4a3c0ac89d3a47d6361ad4b\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\larry\\source\\repos\\MyCRM\\build\\firebase_ml_vision\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\larry\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\4efb5bebb4a3c0ac89d3a47d6361ad4b\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\larry\\source\\repos\\MyCRM\\build\\firebase_ml_vision\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\larry\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\4efb5bebb4a3c0ac89d3a47d6361ad4b\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\larry\\source\\repos\\MyCRM\\build\\firebase_ml_vision\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\larry\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\4efb5bebb4a3c0ac89d3a47d6361ad4b\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

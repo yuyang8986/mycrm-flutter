@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "466371531330",
+    "firebase_url": "https://dealo-822e1.firebaseio.com",
+    "project_id": "dealo-822e1",
+    "storage_bucket": "dealo-822e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466371531330:android:7ae6874a23ce4ee89293db",
+        "android_client_info": {
+          "package_name": "com.gisglobal.dealo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466371531330-u38bbilogrjmr737ungf1j8r36uiv301.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOWEz5wz19NI_2KcQDwmSnnZcjFDzKMss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466371531330-u38bbilogrjmr737ungf1j8r36uiv301.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
